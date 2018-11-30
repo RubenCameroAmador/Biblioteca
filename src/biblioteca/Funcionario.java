@@ -9,6 +9,6 @@ package biblioteca;
  *
  * @author Ruben Camero
  */
-public class Funcionario {
+public class Funcionario extends Persona {
     
 }

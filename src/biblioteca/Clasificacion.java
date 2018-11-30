@@ -9,6 +9,12 @@ package biblioteca;
  *
  * @author Ruben Camero
  */
-public class Usuario extends Persona{
-    
+public enum Clasificacion {
+    Ficcion,
+    Terror,
+    Romance,
+    Academico,
+    Revista,
+    Infantil,
+    Articulo,
 }

@@ -9,6 +9,6 @@ package biblioteca;
  *
  * @author Ruben Camero
  */
-public class Persona {
+public abstract class Persona {
     
 }

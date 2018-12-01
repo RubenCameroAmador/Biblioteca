@@ -5,10 +5,18 @@
  */
 package biblioteca;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Ruben Camero
  */
 public class Estante {
+    ArrayList<Libro> libros;
+
+    public Estante() {
+        libros = new ArrayList<>();
+    }
+    
     
 }
